@@ -1748,7 +1748,6 @@ PRODUCT_PACKAGES += \
     embms \
     CNEService \
     WfdService \
-    com.qualcomm.location \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
